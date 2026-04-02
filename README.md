@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/pskiskpskisk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2751-robot-collisions](https://github.com/pskiskpskisk/Leetcode/tree/master/2751-robot-collisions) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/pskiskpskisk/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/pskiskpskisk/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pskiskpskisk/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/pskiskpskisk/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Counting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/pskiskpskisk/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
 |  |
 | ------- |
