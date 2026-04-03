@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pskiskpskisk/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/pskiskpskisk/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
