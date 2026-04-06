@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/pskiskpskisk/Leetcode/tree/master/0162-find-peak-element) |
 | [0643-maximum-average-subarray-i](https://github.com/pskiskpskisk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pskiskpskisk/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/pskiskpskisk/Leetcode/tree/master/0735-asteroid-collision) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/pskiskpskisk/Leetcode/tree/master/0162-find-peak-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/pskiskpskisk/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
