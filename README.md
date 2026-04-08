@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/pskiskpskisk/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/pskiskpskisk/Leetcode/tree/master/0162-find-peak-element) |
 | [0643-maximum-average-subarray-i](https://github.com/pskiskpskisk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pskiskpskisk/Leetcode/tree/master/0724-find-pivot-index) |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pskiskpskisk/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/pskiskpskisk/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pskiskpskisk/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pskiskpskisk/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
