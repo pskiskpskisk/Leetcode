@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/pskiskpskisk/Leetcode/tree/master/0338-counting-bits) |
 | [1137-n-th-tribonacci-number](https://github.com/pskiskpskisk/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pskiskpskisk/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/pskiskpskisk/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -149,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pskiskpskisk/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/pskiskpskisk/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
