@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/pskiskpskisk/Leetcode/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/pskiskpskisk/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/pskiskpskisk/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/pskiskpskisk/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/pskiskpskisk/Leetcode/tree/master/0338-counting-bits) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/pskiskpskisk/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
